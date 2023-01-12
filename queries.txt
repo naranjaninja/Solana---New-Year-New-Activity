@@ -23,5 +23,53 @@ https://app.flipsidecrypto.com/velocity/queries/2f554d3f-4a58-4629-b0a5-9eea4f3a
 https://app.flipsidecrypto.com/velocity/queries/eb6098b5-33eb-44e0-bdcb-97f60b5bbc91
 https://app.flipsidecrypto.com/velocity/queries/464d2331-de5e-46c6-82b9-c60bdc4cc39a
 
+STAKING
+https://app.flipsidecrypto.com/velocity/queries/85677396-20d1-4336-96e5-6d87085c03b8
+https://app.flipsidecrypto.com/velocity/queries/f577c2e3-6340-46ff-bdad-290f8b8b6d0d
+https://app.flipsidecrypto.com/velocity/queries/70d5da49-59d7-41c0-afc4-23a1f7cfcd61
+https://app.flipsidecrypto.com/velocity/queries/1ba6584f-c258-46f7-a4cc-aaca20e94339
+https://app.flipsidecrypto.com/velocity/queries/ce1dff5a-4f1e-4439-ba5e-f3e24d4e759b
+https://app.flipsidecrypto.com/velocity/queries/2d37c9d5-e3dc-467d-8b06-29cdbafa660e
+https://app.flipsidecrypto.com/velocity/queries/f5a9df66-63e3-4e1e-927a-9ed454b805c7
+https://app.flipsidecrypto.com/velocity/queries/309874be-dc58-44c0-a4f4-1bb4f2b133e5
+https://app.flipsidecrypto.com/velocity/queries/dcb26991-71d3-414e-bac0-816043468162
+https://app.flipsidecrypto.com/velocity/queries/9a17d7f3-d9e4-48e8-b00b-2adae7144b48
+https://app.flipsidecrypto.com/velocity/queries/b7dcc9e1-4c2d-4bdc-9c93-4b0d0ba30c15
+https://app.flipsidecrypto.com/velocity/queries/3037afd4-b24d-4560-9cb7-b33e3fd790a4
+https://app.flipsidecrypto.com/velocity/queries/83f504a4-2802-4f71-a30b-a6db9524cdb4
+https://app.flipsidecrypto.com/velocity/queries/d2ae4bab-ee9d-4887-974c-ec1bfeca5864
+https://app.flipsidecrypto.com/velocity/queries/cbc792c5-69cd-4698-82a2-93326c744ed4
 
-...
+TOKENS and SWAPS
+https://app.flipsidecrypto.com/velocity/queries/12004709-dc48-4568-80e6-81a0dd650792
+https://app.flipsidecrypto.com/velocity/queries/5d9b673c-93dc-43ac-8727-944b713195b9
+https://app.flipsidecrypto.com/velocity/queries/4dd9c781-d8fa-4945-bc33-93d0465680af
+https://app.flipsidecrypto.com/velocity/queries/f6ff783d-4bb5-4eb3-b97e-bf7a50e673b3
+https://app.flipsidecrypto.com/velocity/queries/9bfc2170-dbb8-4b50-bcaa-27a799b96253
+https://app.flipsidecrypto.com/velocity/queries/0b4b63b9-1a5b-4586-8cb8-35f2076c53bc
+https://app.flipsidecrypto.com/velocity/queries/53e2a2cf-d343-4912-9fdf-d91760adfe8f
+https://app.flipsidecrypto.com/velocity/queries/b46ef874-f467-49f6-869e-434e1e409c50
+https://app.flipsidecrypto.com/velocity/queries/dd04a604-fbdf-4a4a-a225-c4f824055cb9
+https://app.flipsidecrypto.com/velocity/queries/8dafe07a-12ca-4cac-8289-d99a0aa08882
+https://app.flipsidecrypto.com/velocity/queries/be99481a-e27f-46e0-a7b3-3e295bc3c33f
+https://app.flipsidecrypto.com/velocity/queries/93eb22ca-3b31-43ff-9e91-4449bac173be
+https://app.flipsidecrypto.com/velocity/queries/45971da9-d6da-44f0-ada3-cbfaab92f89d
+https://app.flipsidecrypto.com/velocity/queries/abeff69f-edb8-4899-941a-0f50d3d1058f
+https://app.flipsidecrypto.com/velocity/queries/74e0ebf0-6af9-4e18-86c6-59525b572c4b
+https://app.flipsidecrypto.com/velocity/queries/bd3526fa-e2fc-4819-ada8-4f2b45e27cf9
+https://app.flipsidecrypto.com/velocity/queries/e24c4fa7-ca97-47d3-91f8-3534a3054381
+https://app.flipsidecrypto.com/velocity/queries/33f20f88-6904-42ef-9685-87bc57755941
+
+USER ACTIVITY
+https://app.flipsidecrypto.com/velocity/queries/708571e5-6abc-45ff-b6d8-08785a36a7c5
+https://app.flipsidecrypto.com/velocity/queries/4a074e0b-5900-4b09-bc70-60034eeef91b
+https://app.flipsidecrypto.com/velocity/queries/5ae69ca9-64cd-4027-8b5a-678719fa8580
+https://app.flipsidecrypto.com/velocity/queries/7ae07ae7-d0e9-4476-beb3-19dd3f67ba2d
+https://app.flipsidecrypto.com/velocity/queries/3057312c-c27f-43af-828a-21768f7c0d8d
+https://app.flipsidecrypto.com/velocity/queries/bb7d9f2f-0bf4-411d-be6c-67182bff8bec
+https://app.flipsidecrypto.com/velocity/queries/77e1ad09-a664-4dc8-be1b-6a0cf77ee58c
+https://app.flipsidecrypto.com/velocity/queries/020a0b2a-a654-48dc-8b30-5d2092869006
+https://app.flipsidecrypto.com/velocity/queries/b8124ffa-b768-452a-86fa-9be331f63215
+https://app.flipsidecrypto.com/velocity/queries/1592b2f1-3a53-4b12-927d-30c9728a514b
+https://app.flipsidecrypto.com/velocity/queries/f6d6ebb8-22e5-4a2f-ad09-ef8ae87567df
+https://app.flipsidecrypto.com/velocity/queries/414c93b2-30c8-4929-8aeb-a33dba33ce41
