@@ -1,0 +1,27 @@
+Links to the data queries by section:
+
+TRANSACTIONS:
+https://app.flipsidecrypto.com/velocity/queries/7195afd6-0134-4f96-95d0-12e0622a6aa3
+https://app.flipsidecrypto.com/velocity/queries/e950da01-6468-4a69-a6f8-f5796c9eac39
+https://app.flipsidecrypto.com/velocity/queries/808c9d3f-bae2-4d9d-a631-77b862ccd587
+https://app.flipsidecrypto.com/velocity/queries/34dc0974-6b65-429b-ab24-1ff3488964ee
+https://app.flipsidecrypto.com/velocity/queries/1200c009-e094-44a8-b467-4611b609032b
+https://app.flipsidecrypto.com/velocity/queries/91c00b26-e51b-471c-aa2e-08c6bebd52aa
+https://app.flipsidecrypto.com/velocity/queries/b35e8dfe-beb6-4c17-8d41-8bd65f4f8dd5
+https://app.flipsidecrypto.com/velocity/queries/1dbfd2b4-5df0-420f-910e-9968d56e356b
+https://app.flipsidecrypto.com/velocity/queries/c3243061-6f26-4f95-81ce-79d98267fb06
+
+NFTS:
+https://app.flipsidecrypto.com/velocity/queries/cc73b63e-330c-4dcd-b219-26a0873ca027
+https://app.flipsidecrypto.com/velocity/queries/5dd3439d-c391-4475-b67c-344f39785130
+https://app.flipsidecrypto.com/velocity/queries/8c452869-54db-4fab-bffa-a3760245bacf
+https://app.flipsidecrypto.com/velocity/queries/4f9db3e8-6074-412c-b68a-5c484c13ba75
+https://app.flipsidecrypto.com/velocity/queries/bf727de4-c4f1-4920-bd4c-6d8763124298
+https://app.flipsidecrypto.com/velocity/queries/e4b40bdc-1bda-4efa-b1fb-f2b933bf4bd2
+https://app.flipsidecrypto.com/velocity/queries/d30be70c-4da7-425d-ba79-99499245a7aa
+https://app.flipsidecrypto.com/velocity/queries/2f554d3f-4a58-4629-b0a5-9eea4f3ac055
+https://app.flipsidecrypto.com/velocity/queries/eb6098b5-33eb-44e0-bdcb-97f60b5bbc91
+https://app.flipsidecrypto.com/velocity/queries/464d2331-de5e-46c6-82b9-c60bdc4cc39a
+
+
+...
